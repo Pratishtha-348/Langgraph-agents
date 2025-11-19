@@ -56,15 +56,6 @@ pip install -r requirements.txt
 cp .env.example .env
 # edit .env and paste your key
 Get free Gemini API key → https://aistudio.google.com/app/apikey
-Bash# 5. Run
-streamlit run app.py
-requirements.txt
-txtstreamlit>=1.38
-langgraph>=0.2
-langchain-google-genai>=2.0
-httpx>=0.27
-python-dotenv>=1.0
-
 User Query  
 ├──► Calculator Agent (Gemini)  
 └──► Weather Agent → extracts city → Open-Meteo API  
