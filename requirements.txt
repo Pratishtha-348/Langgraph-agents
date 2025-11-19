@@ -1,0 +1,5 @@
+langgraph
+google-generativeai
+streamlit
+asyncio
+python-dotenv
